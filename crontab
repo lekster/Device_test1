@@ -1,0 +1,2 @@
+0 0 * * * logrotate.sh
+* * * * * callback_sender.php
